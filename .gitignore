@@ -1,0 +1,12 @@
+# datasets
+data/
+
+# IDE files
+.idea
+.vscode
+
+# tb logs
+logs/
+
+# cached files
+__pycache__/

@@ -1,0 +1,11 @@
+data:
+  raw_data_path: "data/musicnet/musicnet/musicnet/train_data"
+  label_path: "data/musicnet/musicnet_metadata.csv"
+  max_sequence_length: 50000
+epochs: 10
+batch_size: 4
+num_classes: 10
+lr: 0.0003
+log_dir: "logs/"
+overfit: False
+hidden_size: 256
